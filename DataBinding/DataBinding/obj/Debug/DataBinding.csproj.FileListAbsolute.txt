@@ -1,0 +1,16 @@
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\DataBinding.csprojResolveAssemblyReference.cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\MainWindow.g.cs
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\App.g.cs
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\DataBinding_MarkupCompile.cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\DataBinding_MarkupCompile.lref
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\bin\Debug\DataBinding.exe.config
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\bin\Debug\DataBinding.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\bin\Debug\DataBinding.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\MainWindow.baml
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\DataBinding.g.resources
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.Cache
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\DataBinding.exe
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\DataBinding.pdb
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\UserWindow.g.cs
+c:\users\сагадиеве\documents\visual studio 2017\Projects\DataBinding\DataBinding\obj\Debug\UserWindow.baml
